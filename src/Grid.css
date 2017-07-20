@@ -1,0 +1,6 @@
+.grid-cont{
+    background: lightgrey;
+}
+.grid-cont .row{
+    border: 1px solid black;
+}
